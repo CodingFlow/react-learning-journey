@@ -9,3 +9,4 @@
 ## Universal JS
 
 - I need a way to serve up a React app server-side so I can look into mixing server-side and client-side rendering. Official React documentation references Next.js. Looks great, I'll use it.
+- Following official next.js tutorial to understand it.
