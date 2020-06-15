@@ -10,5 +10,5 @@
 
 - I need a way to serve up a React app server-side so I can look into mixing server-side and client-side rendering. Official React documentation references Next.js. Looks great, I'll use it.
 - Following official [next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app) to understand it.
-- Completed next.js basics tutorial. Cool tech that let's you manage server-side rendering for React apps. Here's my sample app from following the tutorial: https://github.com/CodingFlow/nextjs-blog
+- Completed next.js basics tutorial. Cool tech that let's you easily manage server-side and client-side rendering for React apps. Here's my sample app from following the tutorial: https://github.com/CodingFlow/nextjs-blog
 - Cloned my project from following next.js tutorial and added redux to it: https://github.com/CodingFlow/nextjs-redux
