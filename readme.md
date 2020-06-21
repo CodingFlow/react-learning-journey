@@ -12,3 +12,7 @@
 - Following official [next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app) to understand it.
 - Completed next.js basics tutorial. Cool tech that let's you easily manage server-side and client-side rendering for React apps. Here's my sample app from following the tutorial: https://github.com/CodingFlow/nextjs-blog
 - Cloned my project from following next.js tutorial and added redux to it: https://github.com/CodingFlow/nextjs-redux
+
+## Other Additons
+
+- Replaced React with Preact following example: https://github.com/vercel/next.js/tree/canary/examples/using-preact
